@@ -11,6 +11,14 @@ td {
   padding: 5px;
 }
 
+.low-attendance {
+  color: red;
+}
+
+.average {
+    color: blue;
+}
+
 tr:nth-child(1) {
   background-color: lightskyblue;
 }
